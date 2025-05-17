@@ -66,7 +66,16 @@ $ cast --help
 ```
 1. proper README.md
 2. Integration tests
-    PIT STOP! How to make running scripts easier
-3. 
+    PIT STOP! How to make running scripts easier 
 4. Programmatic verification
 5. Push to Github
+
+# About
+
+# Getting started
+## Requirements
+# Quickstart
+
+
+# more update incoming
+
