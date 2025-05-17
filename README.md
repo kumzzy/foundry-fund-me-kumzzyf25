@@ -111,9 +111,9 @@ $ cast --help
     ```
 ### 🚀Usage
  🛠 Build
-    ```
-    forge build
-    ```
+        ```
+        forge build
+        ```
 
 
 ### 🎯Deploy
@@ -141,7 +141,6 @@ $ cast --help
 
 or 
 
-    ```
     // Only run test functions matching the specified regex pattern.
 
     ```
@@ -186,14 +185,16 @@ or
 
 Run the following:
 
-    ```bash
+    ```
+    bash
     npx zksync-cli dev config
     ```
 
 And select: `In memory node` and do not select any additional modules.
 
     Then run:
-    ```bash
+    ```
+    bash
     npx zksync-cli dev start
     ```
 
