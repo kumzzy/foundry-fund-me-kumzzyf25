@@ -10,9 +10,9 @@ Foundry consists of:
 -   **Chisel**: Fast, utilitarian, and verbose solidity REPL.
 # Foundry Fund Me
 
-This is a section of the Cyfrin Solidity Course.
+Kumzzy First repository
 
-*[⭐️ Updraft | Foundry Fund Me](https://updraft.cyfrin.io/courses/foundry/foundry-fund-me/fund-me-project-setup)*
+*[⭐️ | Foundry Fund Me](https://updraft.cyfrin.io/courses/foundry/foundry-fund-me/fund-me-project-setup)*
 
 - [Foundry Fund Me](#foundry-fund-me)
 - [Getting Started](#getting-started)
